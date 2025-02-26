@@ -1,16 +1,3 @@
----
-license: apache-2.0
-pipeline_tag: time-series-forecasting
-tags:
-- time series
-- forecasting
-- pretrained models
-- foundation models
-- time series foundation models
-- time-series
-library_name: granite-tsfm
----
-
 # Granite-TimeSeries-TTM-R2 Model Card
 
 <p align="center" width="100%">
