@@ -1,7 +1,7 @@
 # TTM Forecasting Microservice
 
-This repository provides a RESTful API for real-time time-series forecasting using IBM Research’s TTM model. The service is built using FastAPI and offers endpoints for forecasting, fine-tuning, and monitoring. It also includes Kafka-based data ingestion and Prometheus metrics for integration with dashboards such as Grafana and Kibana.
-
+This repository provides a RESTful API for real-time time-series forecasting using IBM Research’s TTM model. The service is built using FastAPI and offers endpoints for forecasting, fine-tuning, and monitoring. It also includes Kafka-based data ingestion and Prometheus metrics for integration with dashboards such as Grafana and Kibana. 
+ 
 ## Table of Contents
 
 - [Overview](#overview)
