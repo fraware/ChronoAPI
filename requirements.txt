@@ -1,0 +1,13 @@
+streamlit
+pandas
+torch
+transformers
+plotly
+granite-tsfm @ git+https://github.com/ibm-granite/granite-tsfm.git
+fastapi
+uvicorn[standard]
+gunicorn
+aiokafka
+prometheus_client
+pydantic
+pydantic-settings
